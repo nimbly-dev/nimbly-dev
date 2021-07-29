@@ -1,6 +1,13 @@
 ### Greetings 👋 My name is <a href="https://nimbly-dev.github.io/">Altheo</a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimbly-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimbly-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##So
 
 <!--
 **nimbly-dev/nimbly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
