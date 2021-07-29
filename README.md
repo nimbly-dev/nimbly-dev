@@ -9,7 +9,7 @@
 
 ### ⭐ Some Projects I have working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonigh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
