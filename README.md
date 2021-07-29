@@ -9,9 +9,12 @@
 
 ## ⭐ Projects Completed/In Progress:
 
-### 📖 Storybot 
+### Storybot 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonight)](https://github.com/nimbly-dev/storybot)
 
+
+### Java School Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=school-projects&layout=compact&theme=tokyonight)](https://github.com/nimbly-dev/school-projects)
 
 
 <!--
