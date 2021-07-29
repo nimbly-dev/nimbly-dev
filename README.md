@@ -1,4 +1,4 @@
-### Greetings 👋 My name is <a>Altheo</a> 
+### Greetings 👋 My name is <a href="">Altheo</a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)   
 
