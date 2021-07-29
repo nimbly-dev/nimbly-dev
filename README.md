@@ -1,7 +1,8 @@
-### 🌠 Greetings 👋
+### Greetings 👋
 
-🥉 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
