@@ -9,7 +9,7 @@
 
 ### ⭐ Projects Completed/In Progress:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonigh)](https://github.com/nimbly-dev/storybot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonight)](https://github.com/nimbly-dev/storybot)
 
 
 <!--
