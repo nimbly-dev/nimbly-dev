@@ -1,5 +1,6 @@
-### Hello! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
+### 🌠 Greetings 👋
+
+🥉 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
 
 
 
