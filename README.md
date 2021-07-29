@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimbly-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### ⭐ Some Projects I have working on:
+### ⭐ Projects Completed/In Progress:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonigh)](https://github.com/nimbly-dev/storybot)
 
