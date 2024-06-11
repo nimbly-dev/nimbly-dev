@@ -1,4 +1,4 @@
-# Greetings 👋 My name is <a href="https://nimbly-dev.github.io/">Altheo</a> 
+# Hello 👋 My name is <a href="https://nimbly-dev.github.io/">Altheo</a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbly-dev&show_icons=true&theme=tokyonight)
 
@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimbly-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ⭐ Projects Completed:
+## ⭐ Projects (Archived since College):
 
 ### Storybot 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimbly-dev&repo=storybot&layout=compact&theme=tokyonight)](https://github.com/nimbly-dev/storybot)
