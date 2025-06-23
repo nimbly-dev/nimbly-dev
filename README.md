@@ -12,7 +12,8 @@ A full stack shoe catalog with:
 - AI-powered search using OpenAI
 - Stored in a Data Warehouse (Snowflake)
 - Spring Boot backend and React frontend for displaying the data product  
-🔗 [Live Demo](https://ph-shoes-frontend.onrender.com/)  
+🔗 [Live Demo](https://ph-shoes-frontend.onrender.com/)
+🔗 [GitHub Repository](https://github.com/nimbly-dev/ph-shoes-data-spa)  
 *Note: Hosted on Render Free Tier — first load may take a while (cold start).*
 
 ---
@@ -22,6 +23,8 @@ A data pipeline for NYC Taxi trip records:
 - ETL with Apache Spark
 - Analytics with dbt and Postgres
 - Automated using Mage for ETL orchestration
+
+🔗 [GitHub Repository](https://github.com/nimbly-dev/nyc-tripdata-etl-project)
 
 ---
 
