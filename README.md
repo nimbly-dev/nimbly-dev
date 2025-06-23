@@ -1,4 +1,3 @@
-# Hello 👋 My name is <a href="https://nimbly-dev.github.io/">Altheo</a> 
 
 <!--
 **nimbly-dev/nimbly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
