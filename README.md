@@ -1,15 +1,29 @@
+Hey 👋, I’m Altheo!  
+I’m a Software Engineer exploring **Data, AI, and cloud technologies.** I like learning new tools and bringing them to life through side projects like these.
 
-<!--
-**nimbly-dev/nimbly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏷️ PH Shoes Catalog  
+A full stack shoe catalog with:
+- Automated web scraping using AWS Lambda and Airflow, with GitHub Actions for deployment
+- Data transformations with dbt
+- AI-powered search using OpenAI
+- Stored in a Data Warehouse (Snowflake)
+- Spring Boot backend and React frontend for displaying the data product  
+🔗 [Live Demo](https://ph-shoes-frontend.onrender.com/)  
+*Note: Hosted on Render Free Tier — first load may take a while (cold start).*
+
+---
+
+### 🚖 NYC Tripdata Project  
+A data pipeline for NYC Taxi trip records:
+- ETL with Apache Spark
+- Analytics with dbt and Postgres
+- Automated using Mage for ETL orchestration
+
+---
+
+## 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/altheo-saquilayan/)
